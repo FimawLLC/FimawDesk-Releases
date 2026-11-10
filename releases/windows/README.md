@@ -1,0 +1,1 @@
+﻿Windows installers (.exe / .msi) are published here. See the latest GitHub Release for the current build.
